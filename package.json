@@ -1,0 +1,24 @@
+{
+  "name": "npm-final-njy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niejingying/npm-final-njy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niejingying/npm-final-njy/issues"
+  },
+  "homepage": "https://github.com/niejingying/npm-final-njy#readme",
+  "dependencies": {
+        "npm-use-njy": "1.0.0"
+
+  }
+
+}
